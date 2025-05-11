@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Muhammad Syauqi Murtadlo](img/syauqi.jpg)
+<!-- ![Muhammad Syauqi Murtadlo](img/syauqi.jpg) -->
 
 ## I'm a Backend Developer and a DevOps Engineer!!❤️
 
