@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Muhammad Syauqi Murtadlo](img/github-header-image.png)
 
-## I'm a Backend Developer and a DevOps Engineer!!❤️
+## I'm a Fullstack Web Developer and a DevOps Engineer!!❤️
 
 - 🔭 I’m currently working on a project that involves **Machine Learning** and **Blockchain**.
 - 🌱 I’m currently learning about [**Framework Laravel**](https://laravel.com)
