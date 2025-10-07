@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 ![Muhammad Syauqi Murtadlo](img/github-header-image.png)
 
-## I'm a Fullstack Developer and a DevOps Engineer!!❤️
-
-=======
-
 ## I'm a Fullstack Web Developer and a DevOps Engineer!!❤️
-
-> > > > > > > c793648bc12bdc8d708f353ef61a8d889a04091b
 
 - 🔭 I’m currently working on a project that involves **Machine Learning** and **Blockchain**.
 - 🌱 I’m currently learning about [**Framework Laravel**](https://laravel.com)
@@ -55,8 +49,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=yellow" />  -->
 
 <h2 align="left">Languages and Tools</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -109,7 +101,7 @@ Here are some ideas to get you started:
 </div>
 
 <h2 align="left">Social Media</h2>
-###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -122,7 +114,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
-###
+<h2 align="left">Play games with me</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSyauqiMurtadlo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -143,14 +135,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
