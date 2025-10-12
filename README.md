@@ -127,11 +127,12 @@ Here are some ideas to get you started:
 
 <h2 align="left">Play games with me</h2>
 
-<picture>
+<!-- pacman contribution graph -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <img src="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/output/snake.svg" alt="Snake animation" />
 
