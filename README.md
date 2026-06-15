@@ -87,9 +87,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img width="12" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img width="12" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img width="12" />
   <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img width="12" />
 </div>
 
 <h2 align="center">Connect With Me</h2>
@@ -119,7 +123,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSyauqiMurtadlo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Play games with me</h2>
+<h2 align="center">Play games with me</h2>
 <img src="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/snake-output/snake.svg" alt="Snake animation" />
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
