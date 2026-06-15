@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 <!-- ![image]({BadgeURLHere}) -->
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -83,18 +83,18 @@ Here are some ideas to get you started:
 </div>
 </div>
 
-<h2 align="left">AI Tools & Assistants</h2>
+<h2 align="center">AI Tools & Assistants</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </div>
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/syauqimurtadlo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo" style="text-decoration:none;"/>
   </a>
