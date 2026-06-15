@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Muhammad Syauqi Murtadlo](img/github-header-banner.png)
+![Muhammad Syauqi Murtadlo](img/github-header-image.png)
 
 ## I'm a Fullstack Web Developer and a DevOps Engineer!!❤️
 
