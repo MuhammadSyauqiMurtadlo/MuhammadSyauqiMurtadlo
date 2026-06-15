@@ -21,11 +21,18 @@ Here are some ideas to get you started:
 
 ![Muhammad Syauqi Murtadlo](img/github-header-banner.png)
 
-## I'm a Fullstack Web Developer and a DevOps Engineer!!❤️
-
-- 🔭 I’m currently working on a project that involves **Machine Learning** and **Blockchain**.
+<!-- ## I'm a Fullstack Web Developer!!❤️ -->
+<!-- - 🔭 I’m currently working on a project that involves **Machine Learning** and **Blockchain**.
 - 🌱 I’m currently learning about [**Framework Laravel**](https://laravel.com)
-- 👯 I’m looking to collaborate on open-source projects related to data science and machine learning.
+- 👯 I’m looking to collaborate on open-source projects related to data science and machine learning. -->
+
+- 💻 Fullstack Web Developer passionate about building web applications that are useful, scalable, and easy to use.
+- 🌱 Currently growing my expertise in Laravel, PHP, JavaScript, databases, and modern web technologies.
+- 🚀 I enjoy turning ideas into real applications, solving problems through code, and continuously improving my technical skills.
+- 🤖 Interested in Web Development, Artificial Intelligence, and technology that creates meaningful impact.
+- 📚 Believer in lifelong learning — always exploring, building, and growing one step at a time.
+- 🤝 Open to collaboration, learning opportunities, and connecting with fellow developers.
+- 📫 Let's connect on LinkedIn!
 
   > _- 🤔 I’m looking for help with advanced machine learning algorithms and techniques._
 
@@ -47,10 +54,6 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <!-- ![image]({BadgeURLHere}) -->
-
-<!-- ### Cryptocurrency
-
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=yellow" />  -->
 
 <h2 align="left">Languages and Tools</h2>
 
