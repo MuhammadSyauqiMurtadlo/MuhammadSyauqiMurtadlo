@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 </div>
 </div>
 
-<h2 align="left">Artificial Intelligence Skills</h2>
+<h2 align="left">AI Tools & Assistants</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -92,13 +92,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </div>
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/syauqimurtadlo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo"/>
+  </a>
+
+  <a href="https://www.instagram.com/syauqimurtadlo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram Logo"/>
+  </a>
+
+  <a href="https://wa.me/6281233970793" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp Logo"/>
+  </a>
+
+  <a href="https://www.facebook.com/muhammadsyauqi.murtadlo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook Logo"/>
+  </a>
 </div>
 
 <h2 align="center">GitHub Stats</h2>
