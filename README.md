@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 - 🤝 Open to collaboration, learning opportunities, and connecting with fellow developers.
 - 📫 Let's connect on LinkedIn!
 
-  > _- 🤔 I’m looking for help with advanced machine learning algorithms and techniques._
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-syauqi-murtadlo-043138276/)
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: I love to play chess and read books on technology and science.
-
 <!-- ### Languages and Tools:
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
