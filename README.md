@@ -123,7 +123,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSyauqiMurtadlo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-<h2 align="center">Play games with me</h2>
+<h2 align="center">Play Games With Me</h2>
 <img src="https://raw.githubusercontent.com/MuhammadSyauqiMurtadlo/MuhammadSyauqiMurtadlo/snake-output/snake.svg" alt="Snake animation" />
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
