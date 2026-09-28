@@ -100,19 +100,22 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/syauqimurtadlo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/syauqimurtadlo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram Logo" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram Logo"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://wa.me/6281233970793" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="WhatsApp Logo" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="WhatsApp Logo"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.facebook.com/muhammadsyauqi.murtadlo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="Facebook Logo" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="Facebook Logo"/>
   </a>
 </div>
 
